@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/src/main/assets/semivl.pt
+app/src/main/assets/semivl_mobile.pt
